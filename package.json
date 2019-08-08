@@ -1,0 +1,22 @@
+{
+  "name": "jest-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonsGalore/jest-basics.git"
+  },
+  "author": "Andreas Stopat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DemonsGalore/jest-basics/issues"
+  },
+  "homepage": "https://github.com/DemonsGalore/jest-basics#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
